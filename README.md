@@ -3,4 +3,5 @@
 - Plays an animation of the polygon rotating through 360 degrees, one degree per frame.
 - Rotating axis can be selected by clicking on any point of the window.
 - The star can be stopped from rotating and reset to its origin position.
+
 Missing: Retriving star to original position of vertex, not just to the original position at the center of the image.
